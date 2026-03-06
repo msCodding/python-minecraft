@@ -1,0 +1,36 @@
+# Виртуальное окружение
+venv/
+env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python/
+
+# Установочные файлы
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Логи и базы данных
+*.log
+*.sql
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Секреты
+.env
+*.key
+*.pem
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
